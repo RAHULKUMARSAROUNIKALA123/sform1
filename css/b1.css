@@ -1,0 +1,96 @@
+#buy{
+    margin-top:50px;
+    width:50%;
+    height:700px;
+    border:2px solid black;
+    
+     
+    border-radius:60px;
+    position:relative;
+    left:390px;
+    
+     
+    
+    
+}
+.buy1{
+    width:370px;
+    height:450px;
+    position:relative;
+    top:-600px;
+    left:150px;
+    margin-top:4px;
+    float:left;
+    background:white;
+     
+    overflow:auto;
+    padding:15px;
+
+     
+
+}
+.buy11{
+    border-left:1px solid black;
+}
+.buy12{
+    border-right:1px solid black;
+}
+.buy1:hover img{
+    transform:scale(1.01,1.01);
+}
+.buy1 label{
+    font-size:25px;
+    font-family:calibri;
+}
+.buy1 select{
+    width:100px;
+    height:30px;
+    font-size:20px;
+}
+.buy1 ul li{
+     font-family:'arial narrow`';
+  }
+.buy1 img{
+    border-radius:30px;
+}
+.buy1 h5{
+    font-size:30px;
+    font-family:monospace;
+}
+.buy1 h1{
+    font-family:fantasy;
+    letter-spacing:px;
+    position:relative;
+    top:25px;
+
+}
+.buy1 h3{
+     color:red;
+     position:relative;
+    font-size:25px;
+    font-family:helvetica;
+     top:30px;
+}
+.buy1 p{
+    position:relative;
+    top:35px;
+    font-family:courier;
+    font-weight:bold;
+}
+ .buy1 a{
+    font-family:cursive;
+    color:black;
+    display:block;
+    background:hotpink;
+    padding:17px 35px;
+    text-align:center;
+    border-radius:10px;
+    color:white;
+    font-size:24px;
+    text-decoration:none;
+    position:relative;
+    top:40px;
+ }
+ .buy1 a:hover{
+    background:#0020a0;
+ }
